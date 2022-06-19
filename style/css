@@ -1,1 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: green;
+}
+img{
+    width: 500px;
+    height: 250px;
+    padding-top: 50px;
+    display: block;
+    margin: 0 auto;
+    
+}
 
+
+nav a{
+
+    text-decoration: seagreen;
+    color: seagreen;
+    padding: 10px;
+    border: 3px solid seagreen;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.sarr:hover{
+opacity: 0.7;
+}
+.sarrr:hover{
+opacity: 0.7;
+}
+.gg:visited{
+    color:blueviolet
+}
